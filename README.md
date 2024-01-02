@@ -1,7 +1,7 @@
 # Higher-level programming - Python, JavaScript, SQL
 <hr/>
 
-![python](./images/python.jpeg)
+![python](https://www.analyticsinsight.net/wp-content/webp-express/webp-images/uploads/2020/06/Python1.png.webp)
 
 
 This repo contains all the projects that I have done in the alx-Holberton curriculum on Higher level programming.
